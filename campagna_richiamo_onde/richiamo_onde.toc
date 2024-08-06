@@ -1,0 +1,11 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Sessione 1 - 05/08/2024}{1}{}%
+\contentsline {section}{Il porto di Middok}{1}{}%
+\contentsline {subsection}{Il borgomastro}{1}{}%
+\contentsline {subsection}{La locanda}{1}{}%
+\contentsline {subsection}{Il faro}{1}{}%
+\contentsline {subsection}{La notte alla Locanda}{1}{}%
+\contentsfinish 
+\contentsline {subsection}{Il viaggio}{2}{}%
