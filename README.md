@@ -1,1 +1,2 @@
-# il-richiamo-delle-onde
+# Il Richiamo delle Onde
+Appunti della campagna di DND
