@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2024.8.2)  6 AUG 2024 09:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2024.8.2)  6 AUG 2024 09:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1169,10 +1169,7 @@ LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
 
 contour: Using 32 copies for `Indice\ttl@gmk{\@mkboth{\MakeUppercase    []{Indi
 ce}}{\MakeUppercase    []{Indice}}}' on input line 48.
-(./richiamo_onde.toc
-LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 4.
-)
+(./richiamo_onde.toc)
 \tf@toc=\write4
 \openout4 = `richiamo_onde.toc'.
 
@@ -1202,8 +1199,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 48.
 
 
  </homel/mb99/texmf/tex/latex/dnd/img/footerscroll.pdf>]
-Capitolo 1.
-contour: Using 32 copies for `Capitolo\ 1:' on input line 53.
 contour: Using 32 copies for `Sessione' on input line 53.
 contour: Using 32 copies for `1' on input line 53.
 contour: Using 32 copies for `-' on input line 53.
@@ -1286,18 +1281,18 @@ L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 27571 strings out of 475492
- 566587 string characters out of 5776251
- 1960905 words of memory out of 5000000
- 49540 multiletter control sequences out of 15000+600000
- 588318 words of font info for 140 fonts, out of 8000000 for 9000
+ 27565 strings out of 475492
+ 566502 string characters out of 5776251
+ 1956905 words of memory out of 5000000
+ 49537 multiletter control sequences out of 15000+600000
+ 586254 words of font info for 138 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  121i,18n,138p,1010b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on richiamo_onde.pdf (4 pages, 2871160 bytes).
+Output written on richiamo_onde.pdf (4 pages, 2870507 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 56860 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 52764 words of extra memory for PDF output out of 61914 (max. 10000000)
 
