@@ -6,6 +6,6 @@
 \contentsline {subsection}{Il borgomastro}{1}{}%
 \contentsline {subsection}{La locanda}{1}{}%
 \contentsline {subsection}{Il faro}{1}{}%
-\contentsline {subsection}{La notte alla Locanda}{1}{}%
 \contentsfinish 
+\contentsline {subsection}{La notte alla Locanda}{2}{}%
 \contentsline {subsection}{Il viaggio}{2}{}%
