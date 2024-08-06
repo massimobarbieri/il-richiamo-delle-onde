@@ -1,3 +1,3 @@
 # Il Richiamo delle Onde
 Appunti della campagna di DND
-[Puppis](./il-richiamo-delle-onde/campagna_richiamo_onde/PG/puppis.jpg)
+[Puppis](https://github.com/massimobarbieri/il-richiamo-delle-onde/blob/main/campagna_richiamo_onde/PG/puppis.jpg)
