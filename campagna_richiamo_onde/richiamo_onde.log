@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2024.8.1)  7 AUG 2024 15:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2024.8.1)  7 AUG 2024 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1174,46 +1174,78 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 92.
  <./mappe/mappa-middok.png>]
 
 
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 122.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 122.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 122.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 122.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[2]
+Capitolo 2.
+contour: Using 32 copies for `Capitolo\ 2:' on input line 122.
+contour: Using 32 copies for `NPC' on input line 122.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 124.
+LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
+(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 124.
+
 Package caption Warning: Unused \captionsetup[table] on input line 25.
 See the caption package documentation for explanation.
 
 
 
+
+
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 121.
+Package pdftex.def Info: img/paper.jpg  used on input line 133.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 121.
+Package pdftex.def Info: img/paper.jpg  used on input line 133.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 121.
+Package pdftex.def Info: img/paper.jpg  used on input line 133.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 121.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 133.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[2] (./richiamo_onde.aux)
+[3
+
+
+] (./richiamo_onde.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 27410 strings out of 475419
- 563447 string characters out of 5774669
- 1956905 words of memory out of 5000000
- 49329 multiletter control sequences out of 15000+600000
- 592660 words of font info for 185 fonts, out of 8000000 for 9000
+ 27398 strings out of 475419
+ 563518 string characters out of 5774669
+ 1957905 words of memory out of 5000000
+ 49344 multiletter control sequences out of 15000+600000
+ 593202 words of font info for 166 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 121i,18n,138p,1010b,914s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on richiamo_onde.pdf (4 pages, 2874729 bytes).
+ 121i,18n,138p,1010b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
+Output written on richiamo_onde.pdf (5 pages, 2885282 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 56860 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 63004 words of extra memory for PDF output out of 74296 (max. 10000000)
 
