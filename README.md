@@ -1,7 +1,7 @@
 # Il Richiamo delle Onde
 Appunti della campagna "Il richiamo delle onde" masterata da Gabbo per il gioco di ruolo Dungeons & Dragons 5a edizione.
 
-I Personaggi Giocanti (PG) della campagna sono: 
+I Personaggi Giocanti (PG) di questa campagna sono: 
 
 |Felix Astorio                                   |Puppis                                            |Stone                                           |Victor Vega                                                 |
 |:----------------------------------------------:|:------------------------------------------------:|:----------------------------------------------:|:----------------------------------------------------------:|
