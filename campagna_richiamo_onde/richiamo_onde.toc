@@ -10,10 +10,11 @@
 \contentsline {subsection}{La notte alla Locanda}{2}{}%
 \contentsline {subsection}{Il viaggio}{2}{}%
 \contentsline {section}{S2 - 06/08/2024}{2}{}%
+\contentsline {section}{S2 - 08/08/2024}{2}{}%
 \contentsfinish 
-\contentsline {chapter}{\numberline {2}NPC}{3}{}%
-\contentsline {subparagraph}{Fennop}{3}{}%
-\contentsline {subparagraph}{Tamara}{3}{}%
-\contentsline {subparagraph}{Vitruvis}{3}{}%
-\contentsline {subparagraph}{Vlaumak}{3}{}%
-\contentsline {subparagraph}{Zonoi}{3}{}%
+\contentsline {chapter}{\numberline {2}NPC}{4}{}%
+\contentsline {subparagraph}{Fennop}{4}{}%
+\contentsline {subparagraph}{Tamara}{4}{}%
+\contentsline {subparagraph}{Vitruvis}{4}{}%
+\contentsline {subparagraph}{Vlaumak}{4}{}%
+\contentsline {subparagraph}{Zonoi}{4}{}%
