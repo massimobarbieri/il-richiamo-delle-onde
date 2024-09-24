@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2024.8.2)  19 AUG 2024 07:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2024.9.21)  24 SEP 2024 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **richiamo_onde.tex
 (./richiamo_onde.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
-(/homel/mb99/texmf/tex/latex/dnd/dndbook.cls
+L3 programming layer <2024-08-16>
+(/home/mbarbieri/texmf/tex/latex/dnd/dndbook.cls
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-05-27 L3 programming layer (loader) 
+Package: expl3 2024-08-16 L3 programming layer (loader) 
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
@@ -16,9 +16,9 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box52
 ))
 Document Class: dndbook 2020/04/21 v0.8.0  Template for DnD 5e material 
-(/homel/mb99/texmf/tex/latex/dnd/dndoptions.clo
+(/home/mbarbieri/texmf/tex/latex/dnd/dndoptions.clo
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2024-05-08 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 
 Package dnd Info: Unknown option "letterpaper" passed to book class.
@@ -48,7 +48,7 @@ File: bk10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
 )
-(/homel/mb99/texmf/tex/latex/dnd/dndcore.def
+(/home/mbarbieri/texmf/tex/latex/dnd/dndcore.def
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \col@sep=\dimen142
@@ -60,7 +60,7 @@ Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \ar@cellbox=\box54
 )
 (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2024/05/26 v1.0h Color table columns (DPC)
+Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2024/01/14 v1.3d Standard LaTeX Color (DPC)
@@ -136,8 +136,9 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@ftn=\toks24
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
+Package: tcolorbox 2024/07/10 version 6.3.0 text color boxes
 
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
@@ -393,10 +394,60 @@ Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen191
+\pgffor@skip=\dimen192
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count297
+\pgfplotmarksize=\dimen193
+)
+\tikz@lastx=\dimen194
+\tikz@lasty=\dimen195
+\tikz@lastxsaved=\dimen196
+\tikz@lastysaved=\dimen197
+\tikz@lastmovetox=\dimen198
+\tikz@lastmovetoy=\dimen199
+\tikzleveldistance=\dimen256
+\tikzsiblingdistance=\dimen257
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count298
+\tikznumberofchildren=\count299
+\tikznumberofcurrentchild=\count300
+\tikz@fig@count=\count301
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count302
+\pgfmatrixcurrentcolumn=\count303
+\pgf@matrix@numberofcolumns=\count304
+)
+\tikz@expandcount=\count305
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks36
-\verbatim@line=\toks37
+\every@verbatim=\toks38
+\verbatim@line=\toks39
 \verbatim@in@stream=\read3
 )
 (/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
@@ -405,24 +456,24 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks38
+\@envbody=\toks40
 )
-\tcb@titlebox=\box63
-\tcb@upperbox=\box64
-\tcb@lowerbox=\box65
-\tcb@phantombox=\box66
-\c@tcbbreakpart=\count297
-\c@tcblayer=\count298
-\c@tcolorbox@number=\count299
-\l__tcobox_tmpa_box=\box67
-\l__tcobox_tmpa_dim=\dimen191
-\tcb@temp=\box68
-\tcb@temp=\box69
-\tcb@temp=\box70
-\tcb@temp=\box71
+\tcb@titlebox=\box67
+\tcb@upperbox=\box68
+\tcb@lowerbox=\box69
+\tcb@phantombox=\box70
+\c@tcbbreakpart=\count306
+\c@tcblayer=\count307
+\c@tcolorbox@number=\count308
+\l__tcobox_tmpa_box=\box71
+\l__tcobox_tmpa_dim=\dimen258
+\tcb@temp=\box72
+\tcb@temp=\box73
+\tcb@temp=\box74
+\tcb@temp=\box75
 
 (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
-Library (tcolorbox): 'tcbbreakable.code.tex' version '6.2.0'
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.3.0'
 (/usr/share/texlive/texmf-dist/tex/latex/pdfcol/pdfcol.sty
 Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
 
@@ -436,63 +487,12 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
-\tcb@testbox=\box72
-\tcb@totalupperbox=\box73
-\tcb@totallowerbox=\box74
+\tcb@testbox=\box76
+\tcb@totalupperbox=\box77
+\tcb@totallowerbox=\box78
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
-Library (tcolorbox): 'tcbskins.code.tex' version '6.2.0'
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen192
-\pgffor@skip=\dimen193
-\pgffor@stack=\toks39
-\pgffor@toks=\toks40
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2023-01-15 v3.1.10 (3.1.10)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
-.code.tex
-File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count300
-\pgfplotmarksize=\dimen194
-)
-\tikz@lastx=\dimen195
-\tikz@lasty=\dimen196
-\tikz@lastxsaved=\dimen197
-\tikz@lastysaved=\dimen198
-\tikz@lastmovetox=\dimen199
-\tikz@lastmovetoy=\dimen256
-\tikzleveldistance=\dimen257
-\tikzsiblingdistance=\dimen258
-\tikz@figbox=\box75
-\tikz@figbox@bg=\box76
-\tikz@tempbox=\box77
-\tikz@tempbox@bg=\box78
-\tikztreelevel=\count301
-\tikznumberofchildren=\count302
-\tikznumberofcurrentchild=\count303
-\tikz@fig@count=\count304
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count305
-\pgfmatrixcurrentcolumn=\count306
-\pgf@matrix@numberofcolumns=\count307
-)
-\tikz@expandcount=\count308
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
+Library (tcolorbox): 'tcbskins.code.tex' version '6.3.0'
 (/usr/share/texlive/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
 Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
 
@@ -504,11 +504,11 @@ x
 File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
 \l__tikzfill_img_box=\box79
 )) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
-Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.2.0'
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.3.0'
 )) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
-Library (tcolorbox): 'tcbxparse.code.tex' version '6.2.0'
+Library (tcolorbox): 'tcbxparse.code.tex' version '6.3.0'
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2024-05-08 L3 Experimental document command parser
+Package: xparse 2024-08-16 L3 Experimental document command parser
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -624,18 +624,18 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidthlast=\dimen271
 \titlewidthfirst=\dimen272
 )
-(/homel/mb99/texmf/tex/latex/dnd/lib/compat.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndutility.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/compat.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndutility.sty
 \l__dnd_space_box=\box82
 \l__dnd_space_dim=\dimen273
 )
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndcolors.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndfonts.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndcolors.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndfonts.sty
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2024-06-26 v2.61 (Daniel Flipo)
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
-Package: xfp 2024-05-08 L3 Floating point unit
+Package: xfp 2024-08-16 L3 Floating point unit
 )
 \c@DefaultLines=\count316
 \c@DefaultDepth=\count317
@@ -749,12 +749,12 @@ File: t1pbk.fd 2001/06/04 font definitions for T1/pbk.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 116.
 ))
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndstrings.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndcomment.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndheader.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndstrings.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndcomment.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndheader.sty
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
-
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+rs
 \f@nch@headwidth=\skip114
 \f@nch@O@elh=\skip115
 \f@nch@O@erh=\skip116
@@ -765,30 +765,30 @@ Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
 \f@nch@O@olf=\skip121
 \f@nch@O@orf=\skip122
 ))
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndmonster.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndmonster.sty
 \enitdp@__dnd_monster_attributes=\count321
 \enitdp@DndMonsterSpells=\count322
 \enitdp@DndMonsterLegendaryActions=\count323
 )
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndreadaloud.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndsections.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndreadaloud.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndsections.sty
 \c@DndAreaCounter=\count324
 \c@DndSubAreaCounter=\count325
 )
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndsidebar.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndtable.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndsidebar.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndtable.sty
 \l__dnd_table_width_dim=\dimen294
 ))
-(/homel/mb99/texmf/tex/latex/dnd/lib/dndtoc.sty
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/dndtoc.sty
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2023/10/27 v2.16 TOC entries
 \ttl@leftsep=\dimen295
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/06/26 v24.7 The Babel package
+Package: babel 2024/08/18 v24.8 The Babel package
 \babel@savecnt=\count326
 \U@D=\dimen296
-\l@unhyphenated=\language8
+\l@unhyphenated=\language12
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read4
@@ -904,17 +904,17 @@ File: lstlang3.sty 2024/05/25 1.10b listings language file
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
 )
-(/homel/mb99/texmf/tex/latex/dnd/lib/languages/italian.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/languages/japanese.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/languages/ngerman.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/italian.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/japanese.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/ngerman.sty)
 ==> First Aid for ngerman.sty no longer applied!
     Expected:
         1998/07/08 v2.5e Support for writing german texts (br)
     but found:
         
     so I'm assuming it got fixed.
-(/homel/mb99/texmf/tex/latex/dnd/lib/languages/russian.sty)
-(/homel/mb99/texmf/tex/latex/dnd/lib/languages/spanish.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/russian.sty)
+(/home/mbarbieri/texmf/tex/latex/dnd/lib/languages/spanish.sty)
 (./richiamo_onde.aux)
 \openout1 = `richiamo_onde.aux'.
 
@@ -1080,8 +1080,8 @@ Package pdftex.def Info: img/paper.jpg  used on input line 46.
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
-st/fonts/enc/dvips/base/8r.enc} </homel/mb99/texmf/tex/latex/dnd/img/paper.jpg>
-]
+st/fonts/enc/dvips/base/8r.enc} </home/mbarbieri/texmf/tex/latex/dnd/img/paper.
+jpg>]
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
@@ -1121,7 +1121,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 48.
 
 
 
- </homel/mb99/texmf/tex/latex/dnd/img/footerscroll.pdf>]
+ </home/mbarbieri/texmf/tex/latex/dnd/img/footerscroll.pdf>]
 Capitolo 1.
 contour: Using 32 copies for `Capitolo\ 1:' on input line 53.
 contour: Using 32 copies for `Diario' on input line 53.
@@ -1245,30 +1245,28 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 154.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 169.
+Package pdftex.def Info: img/paper.jpg  used on input line 174.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 169.
+Package pdftex.def Info: img/paper.jpg  used on input line 174.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 169.
+Package pdftex.def Info: img/paper.jpg  used on input line 174.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 169.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 174.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[4
-
-]
+[4]
 Capitolo 2.
-contour: Using 32 copies for `Capitolo\ 2:' on input line 169.
-contour: Using 32 copies for `NPC' on input line 169.
+contour: Using 32 copies for `Capitolo\ 2:' on input line 174.
+contour: Using 32 copies for `NPC' on input line 174.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 171.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 176.
 LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
-(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 171.
+(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 176.
 
 Package caption Warning: Unused \captionsetup[table] on input line 25.
 See the caption package documentation for explanation.
@@ -1279,19 +1277,19 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 180.
+Package pdftex.def Info: img/paper.jpg  used on input line 185.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 180.
+Package pdftex.def Info: img/paper.jpg  used on input line 185.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 180.
+Package pdftex.def Info: img/paper.jpg  used on input line 185.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 180.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 185.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [5
 
@@ -1299,22 +1297,22 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 180.
 ] (./richiamo_onde.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
+L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 27610 strings out of 475492
- 567618 string characters out of 5776251
- 1957905 words of memory out of 5000000
- 49496 multiletter control sequences out of 15000+600000
+ 27631 strings out of 475414
+ 568580 string characters out of 5774568
+ 1957957 words of memory out of 5000000
+ 49529 multiletter control sequences out of 15000+600000
  614014 words of font info for 197 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 121i,18n,138p,1070b,1389s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 81 hyphenation exceptions out of 8191
+ 136i,18n,152p,1070b,1415s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Reg
 ular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on richiamo_onde.pdf (7 pages, 2913986 bytes).
+Output written on richiamo_onde.pdf (7 pages, 2915766 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
