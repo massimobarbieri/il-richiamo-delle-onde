@@ -7,6 +7,7 @@ I Personaggi Giocanti (PG) di questa campagna sono:
 |:----------------------------------------------:|:------------------------------------------------:|:----------------------------------------------:|:----------------------------------------------------------:|
 |![Felix](campagna_richiamo_onde/PG/felix200.jpg)|![Puppis](campagna_richiamo_onde/PG/puppis200.jpg)|![Stone](campagna_richiamo_onde/PG/stone200.jpg)|![Victor-Vega](campagna_richiamo_onde/PG/victor-vega200.jpg)|
 |Umano monaco                                    |Tabaxi Ladro                                      |Tortuga Stregone                                 |Genasi dell'acqua Bardo                                    |
+
 |Sam Lassen                                      |Stein Hein                                        |
 |:----------------------------------------------:|:------------------------------------------------:|
 |![Sam](campagna_richiamo_onde/PG/sam.jpg)       |![Stein](campagna_richiamo_onde/PG/stein.jpg)     |
