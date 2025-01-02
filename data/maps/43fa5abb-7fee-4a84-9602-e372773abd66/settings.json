@@ -1,0 +1,28 @@
+{
+  "id": "43fa5abb-7fee-4a84-9602-e372773abd66",
+  "title": "Prova",
+  "fogProgressPath": "fog.progress.png",
+  "fogLivePath": "fog.live.png",
+  "mapPath": "map.png",
+  "grid": null,
+  "showGrid": false,
+  "showGridToPlayers": false,
+  "tokens": [
+    {
+      "id": "dd077b4a-b288-4657-9f33-3ee5aa50a7de",
+      "x": 474.72151574269145,
+      "y": 327.0763028214962,
+      "radius": 10,
+      "color": "#000000",
+      "label": "",
+      "isVisibleForPlayers": true,
+      "isMovableByPlayers": true,
+      "isLocked": false,
+      "type": "entity",
+      "tokenImageId": null,
+      "rotation": 0
+    }
+  ],
+  "fogProgressRevision": "d3fb0b0c-a510-4d2f-9a72-34a781ad4a89",
+  "fogLiveRevision": "3d57790b-b974-468f-8784-ef77483788ec"
+}
