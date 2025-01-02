@@ -10,5 +10,5 @@ I Personaggi Giocanti (PG) di questa campagna sono:
 
 |Sam Lassen                                      |Stein Hein                                        |
 |:----------------------------------------------:|:------------------------------------------------:|
-|![Sam](campagna_richiamo_onde/PG/sam.jpg)       |![Stein](campagna_richiamo_onde/PG/stein.jpg)     |
+|![Sam](campagna_richiamo_onde/PG/Sam.jpg)       |![Stein](campagna_richiamo_onde/PG/stein.jpg)     |
 |Mezz'orco barbaro                               |Genasi dell'acqua artefice                        |
