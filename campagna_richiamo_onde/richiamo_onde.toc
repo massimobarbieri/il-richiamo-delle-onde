@@ -16,6 +16,8 @@
 \contentsline {section}{S6 - 16/08/2024}{4}{}%
 \contentsline {section}{S7 - 22/09/2024}{4}{}%
 \contentsline {section}{S8 - 01/01/2025}{4}{}%
+\contentsline {section}{S9 - 18/04/2025}{5}{}%
+\contentsline {section}{S10 - 19/04/2025}{5}{}%
 \contentsfinish 
 \contentsline {chapter}{\numberline {2}NPC}{6}{}%
 \contentsline {subparagraph}{Gundel}{6}{}%

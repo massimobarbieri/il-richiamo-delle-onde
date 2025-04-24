@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2024.12.26)  2 JAN 2025 07:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.3.22)  24 APR 2025 08:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **richiamo_onde.tex
 (./richiamo_onde.tex
-LaTeX2e <2024-11-01>
-L3 programming layer <2024-11-02>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
 (/home/mbarbieri/texmf/tex/latex/dnd/dndbook.cls
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-11-02 L3 programming layer (loader) 
+Package: expl3 2025-01-18 L3 programming layer (loader) 
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
@@ -79,7 +79,7 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \rownum=\count272
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
+Package: enumitem 2025/02/06 v3.11 Customized lists
 \enitkv@toks@=\toks19
 \labelindent=\skip54
 \enit@outerparindent=\dimen144
@@ -89,7 +89,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitdp@description=\count274
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count275
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
@@ -484,7 +484,7 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@testbox=\box76
@@ -530,31 +530,34 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks41
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
 \MT@toks=\toks42
 \MT@tempbox=\box80
 \MT@count=\count314
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
-LaTeX Info: Redefining \leftprotrusion on input line 1062.
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
 \MT@prot@toks=\toks43
-LaTeX Info: Redefining \rightprotrusion on input line 1081.
-LaTeX Info: Redefining \textls on input line 1392.
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen267
-LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count315
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
+File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 902.
-LaTeX Info: Redefining \lslig on input line 902.
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
 \MT@outer@space=\skip62
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
-))
+File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip63
@@ -613,7 +616,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabnumwidth=\skip110
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2023/10/27 v2.16 Sectioning titles
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box81
 \beforetitleunit=\skip111
 \aftertitleunit=\skip112
@@ -632,7 +635,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/dndcolors.sty)
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/dndfonts.sty
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
-File: lettrine.sty 2024-06-26 v2.61 (Daniel Flipo)
+File: lettrine.sty 2025-01-30 v2.80 (Daniel Flipo)
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
 Package: xfp 2024-08-16 L3 Floating point unit
@@ -657,17 +660,19 @@ Package: xfp 2024-08-16 L3 Floating point unit
 \L@slope=\dimen284
 \L@height=\dimen285
 \L@novskip=\dimen286
-\L@ruleht=\dimen287
-\L@target@ht=\dimen288
-\L@target@dp=\dimen289
-\L@target@tht=\dimen290
-\LettrineWidth=\dimen291
-\LettrineHeight=\dimen292
-\LettrineDepth=\dimen293
+\L@target@ht=\dimen287
+\L@target@dp=\dimen288
+\L@target@tht=\dimen289
+\LettrineWidth=\dimen290
+\LettrineHeight=\dimen291
+\LettrineDepth=\dimen292
+\L@finalht=\dimen293
+\L@finaldp=\dimen294
 
 Loading lettrine.cfg
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg)
-\Llist@everypar=\toks45
+\Lettrine@tweaks=\toks45
+\Llist@everypar=\toks46
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cfr-initials/Royal.sty
 Package: Royal 2007/11/24 v1.01 Royal CFR
@@ -705,8 +710,8 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks46
-\XKV@tempa@toks=\toks47
+\XKV@toks=\toks47
+\XKV@tempa@toks=\toks48
 )
 \XKV@depth=\count322
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -753,17 +758,23 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/dndcomment.sty)
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/dndheader.sty
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
-rs
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip114
-\f@nch@O@elh=\skip115
-\f@nch@O@erh=\skip116
-\f@nch@O@olh=\skip117
-\f@nch@O@orh=\skip118
-\f@nch@O@elf=\skip119
-\f@nch@O@erf=\skip120
-\f@nch@O@olf=\skip121
-\f@nch@O@orf=\skip122
+\f@nch@offset@elh=\skip115
+\f@nch@offset@erh=\skip116
+\f@nch@offset@olh=\skip117
+\f@nch@offset@orh=\skip118
+\f@nch@offset@elf=\skip119
+\f@nch@offset@erf=\skip120
+\f@nch@offset@olf=\skip121
+\f@nch@offset@orf=\skip122
+\f@nch@height=\skip123
+\f@nch@footalignment=\skip124
+\f@nch@widthL=\skip125
+\f@nch@widthC=\skip126
+\f@nch@widthR=\skip127
+\@temptokenb=\toks49
 ))
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/dndmonster.sty
 \enitdp@__dnd_monster_attributes=\count323
@@ -777,19 +788,19 @@ rs
 )
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/dndsidebar.sty)
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/dndtable.sty
-\l__dnd_table_width_dim=\dimen294
+\l__dnd_table_width_dim=\dimen295
 ))
 (/home/mbarbieri/texmf/tex/latex/dnd/lib/dndtoc.sty
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
-Package: titletoc 2023/10/27 v2.16 TOC entries
-\ttl@leftsep=\dimen295
+Package: titletoc 2025/01/04 v2.17 TOC entries
+\ttl@leftsep=\dimen296
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/11/08 v24.13 The multilingual framework for pdfLaTeX, LuaLa
-TeX and XeLaTeX
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
+eX and XeLaTeX
 \babel@savecnt=\count328
-\U@D=\dimen296
-\l@unhyphenated=\language12
+\U@D=\dimen297
+\l@unhyphenated=\language10
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read4
@@ -807,22 +818,22 @@ Package babel Info: Importing font and identification data for italian
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks48
-\inpenc@posthook=\toks49
+\inpenc@prehook=\toks50
+\inpenc@posthook=\toks51
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen297
-\captionmargin=\dimen298
-\caption@leftmargin=\dimen299
-\caption@rightmargin=\dimen300
-\caption@width=\dimen301
-\caption@indent=\dimen302
-\caption@parindent=\dimen303
-\caption@hangindent=\dimen304
+\caption@tempdima=\dimen298
+\captionmargin=\dimen299
+\caption@leftmargin=\dimen300
+\caption@rightmargin=\dimen301
+\caption@width=\dimen302
+\caption@indent=\dimen303
+\caption@parindent=\dimen304
+\caption@hangindent=\dimen305
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count333
@@ -838,16 +849,16 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count338
 \lst@gtempboxa=\box86
-\lst@token=\toks50
+\lst@token=\toks52
 \lst@length=\count339
-\lst@currlwidth=\dimen305
+\lst@currlwidth=\dimen306
 \lst@column=\count340
 \lst@pos=\count341
-\lst@lostspace=\dimen306
-\lst@width=\dimen307
+\lst@lostspace=\dimen307
+\lst@width=\dimen308
 \lst@newlines=\count342
 \lst@lineno=\count343
-\lst@maxwidth=\dimen308
+\lst@maxwidth=\dimen309
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
@@ -937,16 +948,16 @@ LaTeX Font Info:    ... okay on input line 42.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count348
-\scratchdimen=\dimen309
+\scratchdimen=\dimen310
 \scratchbox=\box88
 \nofMPsegments=\count349
 \nofMParguments=\count350
-\everyMPshowfont=\toks51
+\everyMPshowfont=\toks53
 \MPscratchCnt=\count351
-\MPscratchDim=\dimen310
+\MPscratchDim=\dimen311
 \MPnumerator=\count352
 \makeMPintoPDFobject=\count353
-\everyMPtoPDFconversion=\toks52
+\everyMPtoPDFconversion=\toks54
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1008,6 +1019,7 @@ Package microtype Info: Applying patch `toc' on input line 42.
 Package microtype Info: Applying patch `eqnum' on input line 42.
 Package microtype Info: Applying patch `footnote' on input line 42.
 Package microtype Info: Applying patch `verbatim' on input line 42.
+LaTeX Info: Redefining \microtypesetup on input line 42.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1272,34 +1284,34 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 189.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [4 <./mappe/miniera.png>]
 
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <10> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 209.
 
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 198.
+Package pdftex.def Info: img/paper.jpg  used on input line 220.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 198.
+Package pdftex.def Info: img/paper.jpg  used on input line 220.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 198.
+Package pdftex.def Info: img/paper.jpg  used on input line 220.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 198.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 220.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[5
-
-]
+[5]
 Capitolo 2.
-contour: Using 32 copies for `Capitolo\ 2:' on input line 198.
-contour: Using 32 copies for `NPC' on input line 198.
+contour: Using 32 copies for `Capitolo\ 2:' on input line 220.
+contour: Using 32 copies for `NPC' on input line 220.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 200.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 222.
 LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
-(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 200.
+(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 222.
 
 Package caption Warning: Unused \captionsetup[table] on input line 25.
 See the caption package documentation for explanation.
@@ -1310,45 +1322,46 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 211.
+Package pdftex.def Info: img/paper.jpg  used on input line 233.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 211.
+Package pdftex.def Info: img/paper.jpg  used on input line 233.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 211.
+Package pdftex.def Info: img/paper.jpg  used on input line 233.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 211.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 233.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [6
 
 
 ] (./richiamo_onde.aux)
  ***********
-LaTeX2e <2024-11-01>
-L3 programming layer <2024-11-02>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 27696 strings out of 475197
- 569881 string characters out of 5767343
- 1313333 words of memory out of 5000000
- 49805 multiletter control sequences out of 15000+600000
- 614014 words of font info for 197 fonts, out of 8000000 for 9000
+ 27932 strings out of 475053
+ 574932 string characters out of 5763466
+ 1319695 words of memory out of 5000000
+ 50167 multiletter control sequences out of 15000+600000
+ 617340 words of font info for 206 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 136i,18n,152p,1070b,1415s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 136i,18n,143p,1070b,1481s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Reg
 ular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on richiamo_onde.pdf (8 pages, 3255338 bytes).
+e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
+Output written on richiamo_onde.pdf (8 pages, 3264589 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 74273 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 78369 words of extra memory for PDF output out of 89155 (max. 10000000)
 
