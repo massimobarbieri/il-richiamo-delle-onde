@@ -1,29 +1,29 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
-\contentsline {chapter}{\numberline {1}Diario delle sessioni}{1}{}%
-\contentsline {section}{S1 - 05/08/2024}{1}{}%
-\contentsline {subsection}{Il porto di Middok}{1}{}%
-\contentsline {subsection}{Il borgomastro}{1}{}%
-\contentsline {subsection}{La locanda}{1}{}%
-\contentsline {subsection}{Il faro}{1}{}%
-\contentsline {subsection}{La notte alla Locanda}{2}{}%
-\contentsline {subsection}{Il viaggio}{2}{}%
-\contentsline {section}{S2 - 06/08/2024}{2}{}%
-\contentsline {section}{S3 - 08/08/2024}{2}{}%
-\contentsline {section}{S4 - 09/08/2024}{3}{}%
-\contentsline {section}{S5 - 13/08/2024}{3}{}%
-\contentsline {section}{S6 - 16/08/2024}{4}{}%
-\contentsline {section}{S7 - 22/09/2024}{4}{}%
-\contentsline {section}{S8 - 01/01/2025}{4}{}%
-\contentsline {section}{S9 - 18/04/2025}{5}{}%
-\contentsline {section}{S10 - 19/04/2025}{5}{}%
+\contentsline {chapter}{\numberline {1}Diario delle sessioni}{1}{chapter.1}%
+\contentsline {section}{S1 - 05/08/2024}{1}{section*.2}%
+\contentsline {subsection}{Il porto di Middok}{1}{subsection*.3}%
+\contentsline {subsection}{Il borgomastro}{1}{subsection*.5}%
+\contentsline {subsection}{La locanda}{1}{subsection*.6}%
+\contentsline {subsection}{Il faro}{1}{subsection*.7}%
+\contentsline {subsection}{La notte alla Locanda}{2}{subsection*.8}%
+\contentsline {subsection}{Il viaggio}{2}{subsection*.9}%
+\contentsline {section}{S2 - 06/08/2024}{2}{section*.10}%
+\contentsline {section}{S3 - 08/08/2024}{2}{section*.11}%
+\contentsline {section}{S4 - 09/08/2024}{3}{section*.12}%
+\contentsline {section}{S5 - 13/08/2024}{3}{section*.13}%
+\contentsline {section}{S6 - 16/08/2024}{4}{section*.14}%
+\contentsline {section}{S7 - 22/09/2024}{4}{section*.15}%
+\contentsline {section}{S8 - 01/01/2025}{4}{section*.16}%
+\contentsline {section}{S9 - 18/04/2025}{5}{section*.18}%
+\contentsline {section}{S10 - 19/04/2025}{5}{section*.19}%
 \contentsfinish 
-\contentsline {chapter}{\numberline {2}NPC}{6}{}%
-\contentsline {subparagraph}{Thimos}{6}{}%
-\contentsline {subparagraph}{Gundel}{6}{}%
-\contentsline {subparagraph}{Fennop}{6}{}%
-\contentsline {subparagraph}{Tamara}{6}{}%
-\contentsline {subparagraph}{Vitruvis}{6}{}%
-\contentsline {subparagraph}{Vlaumak}{6}{}%
-\contentsline {subparagraph}{Zonoi}{6}{}%
+\contentsline {chapter}{\numberline {2}NPC}{7}{chapter.2}%
+\contentsline {subparagraph}{Thimos}{7}{subparagraph*.20}%
+\contentsline {subparagraph}{Gundel}{7}{subparagraph*.21}%
+\contentsline {subparagraph}{Fennop}{7}{subparagraph*.22}%
+\contentsline {subparagraph}{Tamara}{7}{subparagraph*.23}%
+\contentsline {subparagraph}{Vitruvis}{7}{subparagraph*.24}%
+\contentsline {subparagraph}{Vlaumak}{7}{subparagraph*.25}%
+\contentsline {subparagraph}{Zonoi}{7}{subparagraph*.26}%
