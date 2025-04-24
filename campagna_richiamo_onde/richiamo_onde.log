@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.3.22)  24 APR 2025 09:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.3.22)  24 APR 2025 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1173,6 +1173,7 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count367
 Package hyperref Info: Link coloring OFF on input line 43.
+(./richiamo_onde.out) (./richiamo_onde.out)
 \@outlinefile=\write4
 \openout4 = `richiamo_onde.out'.
 
@@ -1180,6 +1181,7 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <17.28> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <12> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
+
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
@@ -1208,7 +1210,7 @@ LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 48.
 
 
-<img/paper.jpg, id=7, 614.295pt x 794.97pt>
+<img/paper.jpg, id=55, 614.295pt x 794.97pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 48.
@@ -1259,7 +1261,7 @@ Package pdftex.def Info: img/paper.jpg  used on input line 49.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <7> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 49.
-<img/footerscroll.pdf, id=14, 596.2275pt x 42.15584pt>
+<img/footerscroll.pdf, id=86, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
@@ -1282,7 +1284,7 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 59.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 59.
-<./mappe/mappa-middok.png, id=22, 963.6pt x 638.385pt>
+<./mappe/mappa-middok.png, id=94, 963.6pt x 638.385pt>
 File: ./mappe/mappa-middok.png Graphic file (type png)
 <use ./mappe/mappa-middok.png>
 Package pdftex.def Info: ./mappe/mappa-middok.png  used on input line 62.
@@ -1388,7 +1390,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 155.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [3{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}]
 
-<./mappe/miniera.png, id=50, 867.99281pt x 439.6425pt>
+<./mappe/miniera.png, id=116, 867.99281pt x 439.6425pt>
 File: ./mappe/miniera.png Graphic file (type png)
 <use ./mappe/miniera.png>
 Package pdftex.def Info: ./mappe/miniera.png  used on input line 177.
@@ -1478,19 +1480,19 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 240.
+Package pdftex.def Info: img/paper.jpg  used on input line 242.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 240.
+Package pdftex.def Info: img/paper.jpg  used on input line 242.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 240.
+Package pdftex.def Info: img/paper.jpg  used on input line 242.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 240.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 242.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [7
 
@@ -1500,40 +1502,26 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 240.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `richiamo_onde.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `richiamo_onde.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  640287E11029886F2188EBA13C64DBEC;1569.
+Package rerunfilecheck Info: File `richiamo_onde.out' has not changed.
+(rerunfilecheck)             Checksum: 640287E11029886F2188EBA13C64DBEC;1569.
  ) 
 Here is how much of TeX's memory you used:
- 34368 strings out of 475053
- 675325 string characters out of 5763466
+ 34386 strings out of 475053
+ 675586 string characters out of 5763466
  1424246 words of memory out of 5000000
- 56482 multiletter control sequences out of 15000+600000
+ 56496 multiletter control sequences out of 15000+600000
  617340 words of font info for 206 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  136i,18n,143p,1070b,1489s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{figure.1.2} has been referenced but does not exist,
- replaced by a fixed one
-
-</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regul
-ar.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/bookman/ubkli8a.pfb>
-Output written on richiamo_onde.pdf (9 pages, 3267036 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Reg
+ular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/bookman/ubkli8a.pfb>
+Output written on richiamo_onde.pdf (9 pages, 3268611 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
+ 186 PDF objects out of 1000 (max. 8388607)
+ 146 compressed objects within 2 object streams
  39 named destinations out of 1000 (max. 500000)
- 78369 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 78465 words of extra memory for PDF output out of 89155 (max. 10000000)
 
